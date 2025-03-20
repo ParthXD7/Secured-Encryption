@@ -21,7 +21,7 @@ pip install tk
 Run the script using Python:
 
 ```sh
-python encryption_tool.py
+python henc.py
 ```
 
 ### 🔒 Encryption
